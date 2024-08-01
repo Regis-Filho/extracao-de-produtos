@@ -1,4 +1,4 @@
- Here is the README for your code in English:
+
 
 Kabum Web Scraper
 
